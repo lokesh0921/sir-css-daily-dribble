@@ -1,0 +1,88 @@
+.root{
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+    border: 3px solid #121212;
+    border-radius: 2px;
+}
+
+
+.text{
+    color: #121212;
+    font-weight: bold;
+    font-family: sans-serif;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     width: 100%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center; 
+}
+
+.image{
+    display: block;
+    border: 1px solid #121212;
+}
+
+.description{
+     color: #121212;
+     font-style: oblique;
+     font-family: sans-serif;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     text-align: center; 
+
+     
+}
+
+ .inputbox{
+    width: 190px;
+    height: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    color: #121212;
+    font-family: sans-serif;
+    
+    border: 3px solid #121212;
+     border-radius: 2px;
+ }
+
+ .btn{
+    width: 196px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 20px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: medium;
+    font-weight: bold;
+    background-color: #121212;
+    color: aliceblue;
+    border: 3px solid #121212;
+    border-radius: 2px;
+ }
+
+ .terms{
+    font-size: medium;
+    text-align: center;
+    font-weight: 500;
+    color: #121212;
+    font-family: sans-serif;
+
+ }
